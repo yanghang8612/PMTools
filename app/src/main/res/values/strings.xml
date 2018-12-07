@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">桶装水追溯系统</string>
+
+    <string name="confirm">确认</string>
+
+    <string name="title_activity_main" />
+    <string name="title_activity_district" />
+    <string name="title_activity_web_view" />
+    <string name="title_activity_login">桶装水追溯系统</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_credit_card_apply">信用卡申请</string>
+    <string name="title_activity_personal_info">我的信息</string>
+    <string name="title_activity_profit">我的收益</string>
+    <string name="title_activity_rate">费率信息</string>
+    <string name="title_activity_real_name_info">实名认证</string>
+    <string name="title_activity_user_agreement">用户协议</string>
+    <string name="title_activity_about_us">关于我们</string>
+    <string name="title_activity_debit_card">结算卡信息</string>
+    <string name="title_activity_agent_manager">会员管理</string>
+    <string name="title_activity_main_mall">掌触商城</string>
+    <string name="title_activity_card_manager">银行卡管理</string>
+    <string name="title_activity_my_balance">我的钱包余额</string>
+    <string name="title_activity_my_points">我的积分</string>
+    <string name="title_activity_picker_header">我的头像</string>
+    <string name="title_activity_change_password">修改密码</string>
+    <string name="title_activity_forget_password">忘记密码</string>
+    <string name="title_activity_identify_card_example">身份证拍照模板</string>
+    <string name="title_activity_change_phone">更换手机号</string>
+    <string name="title_activity_my_qr_code">我的二维码</string>
+    <string name="title_activity_share_record">我的分享记录</string>
+    <string name="title_activity_share_qr_record">分享二维码</string>
+    <string name="title_activity_pay_qr_record">支付二维码</string>
+    <string name="title_activity_loan_apply">网贷申请</string>
+    <string name="title_activity_add_bank_card">添加银行卡</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="title_activity_withdraw">钱包提现</string>
+    <string name="title_activity_feedback">意见反馈</string>
+    <string name="title_activity_register_vip">掌触会员</string>
+    <string name="title_activity_mobile_pay">收款</string>
+    <string name="title_activity_buy_vip">购买会员</string>
+    <string name="title_fragment_share">分享</string>
+    <string name="title_fragment_wallet">掌触钱包</string>
+
+    <string name="bottom_navigation_home">主页</string>
+    <string name="bottom_navigation_share">分享</string>
+    <string name="bottom_navigation_wallet">钱包</string>
+    <string name="bottom_navigation_my">我的</string>
+
+    <string name="prompt_user_name">用户名</string>
+    <string name="prompt_phone_number">手机号</string>
+    <string name="prompt_old_phone_number">旧手机号</string>
+    <string name="prompt_new_phone_number">新手机号</string>
+    <string name="prompt_old_password">旧密码</string>
+    <string name="prompt_password">密码</string>
+    <string name="prompt_password_tips">包含字母和数字，长度不少于6位</string>
+    <string name="prompt_confirm_password">确认密码</string>
+    <string name="prompt_identify_code">邀请码/推荐人手机</string>
+    <string name="prompt_invitation_code">邀请码</string>
+    <string name="prompt_recommender_id">推荐人(选填)</string>
+    <string name="prompt_verification_code">验证码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_get_verification_code">获取验证码</string>
+    <string name="action_register_next_step">下一步</string>
+    <string name="action_register_finish">完成</string>
+    <string name="action_apply_finish">提交申请</string>
+    <string name="action_change_password">确认修改</string>
+    <string name="action_change_phone">确认更换</string>
+    <string name="action_forget_password_next_step">下一步</string>
+    <string name="action_forget_password_finish">完成</string>
+    <string name="goto_forget_password">忘记密码</string>
+    <string name="goto_register">立即注册</string>
+    <string name="error_invalid_phone_number">手机号码非法</string>
+    <string name="error_invalid_password">密码过短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_inconsistent_passwords">两次输入密码不一致</string>
+    <string name="error_field_required">必填字段</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

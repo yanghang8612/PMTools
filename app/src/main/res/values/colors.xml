@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#87CEFA</color>
+    <color name="colorPrimaryDark">#87CEFA</color>
+    <color name="colorAccent">#795548</color>
+
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent">#536DFE</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_transparent">#55000000</color>
+
+    <color name="indigo">#536DFE</color>
+    <color name="blue">#1E88E5</color>
+    <color name="dark_blue">#003371</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#616161</color>
+    <color name="red">#E53935</color>
+    <color name="pink">#D81B60</color>
+    <color name="green">#2E7D32</color>
+    <color name="orange">#EF6C00</color>
+    <color name="brown">#5D4037</color>
+    <color name="dark_orange">#BF360C</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="indicator">#CCCCCC</color>
+
+    <color name="homepage_content_icon">#9B9B9B</color>
+    <color name="share_content_icon">#795548</color>
+
+    <color name="bottom_bar_background">#FFFFFF</color>
+    <color name="bottom_bar_active">#757575</color>
+    <color name="bottom_bar_inactive">#2D2D8B</color>
+
+    <color name="bank_card_item">#E9507D</color>
+    <color name="mall_text_background">#BCAAA4</color>
+    <color name="loan_apply_color">#FFCE4E</color>
+</resources>
