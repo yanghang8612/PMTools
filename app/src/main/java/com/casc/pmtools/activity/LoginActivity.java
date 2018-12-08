@@ -92,6 +92,7 @@ public class LoginActivity extends BaseActivity {
                         SpHelper.setParam("username", username);
                         SpHelper.setParam("password", password);
                         MyVars.user = new Gson().fromJson(reply.getContent(), User.class);
+                        finish();
                         MainActivity.actionStart(LoginActivity.this);
                     } else {
                         showToast(reply.getMessage() + ",请检查后重试");

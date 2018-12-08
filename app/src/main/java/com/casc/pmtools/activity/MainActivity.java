@@ -198,6 +198,7 @@ public class MainActivity extends BaseActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_exit_app) {
+            SpHelper.clearAll();
             LoginActivity.actionStart(this);
             finish();
         }
